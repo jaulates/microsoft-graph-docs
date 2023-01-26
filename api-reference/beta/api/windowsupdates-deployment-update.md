@@ -41,7 +41,7 @@ PATCH /admin/windows/updates/deployments/{deploymentId}
 
 ## Request body
 
-[!INCLUDE [table-intro](../../includes/update-property-table-intro.md)]
+The following table shows the properties that can be set when you update a [deployment](../resources/windowsupdates-deployment.md).
 
 |Property|Type|Description|
 |:---|:---|:---|
